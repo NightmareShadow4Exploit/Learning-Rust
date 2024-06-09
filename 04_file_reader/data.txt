@@ -1,0 +1,6 @@
+hello this is the text file
+
+
+
+
+this is line no. 6
